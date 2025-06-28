@@ -1,0 +1,8 @@
+<?php /* Template Name: قانون و مقررات */ ?>
+<?php get_header('shop'); ?>
+<?php get_template_part('partials/nav/menu','menu');?>
+<?php get_template_part('partials/layout/start-layout','start-layout');?>
+<?php get_template_part('partials/privacy-policy/title','title');?>
+<?php get_template_part('partials/privacy-policy/main-content','main-content');?>
+<?php get_template_part('partials/layout/end-layout','end-layout');?>
+<?php get_footer('shop'); ?>

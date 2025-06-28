@@ -1,0 +1,1 @@
+<div class="widget widget-banner-sidebar">	<div class="banner-sidebar-title">قسمت تبلیغات 280 در 280</div>	<!-- End .ad-title -->	<div class="banner-sidebar banner-overlay">		<a href="#">			<img src="<?php echo TNS_URL . '/assets/images/blog/sidebar/banner.jpg'?>" alt="بنر">		</a>	</div><!-- End .banner-ad --></div><!-- End .widget -->

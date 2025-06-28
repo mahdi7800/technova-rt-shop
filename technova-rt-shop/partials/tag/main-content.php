@@ -1,0 +1,1 @@
+<div class="page-content">    <div class="container"><div class="entry-container" data-layout="fitRows">	<?php get_template_part('loop/tag/main-content-loop','main-content-loop');?>

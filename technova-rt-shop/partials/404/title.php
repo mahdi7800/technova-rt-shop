@@ -1,0 +1,1 @@
+<nav aria-label="breadcrumb" class="breadcrumb-nav border-0 mb-0">	<div class="container">		<ol class="breadcrumb">       <?php echo Breadcrumb::tns_get_breadcrumb(); ?>		</ol>	</div><!-- End .container --></nav><!-- End .breadcrumb-nav -->

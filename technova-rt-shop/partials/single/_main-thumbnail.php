@@ -1,0 +1,1 @@
+<figure class="entry-media"><?php echo tns_post_thumbnail(); ?></figure><!-- End .entry-media -->

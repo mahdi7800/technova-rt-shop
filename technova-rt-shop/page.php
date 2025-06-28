@@ -1,0 +1,1 @@
+<?php get_header('shop'); ?><?php get_template_part('partials/nav/menu','menu'); ?><?php the_content() ; ?><?php get_footer('shop'); ?>

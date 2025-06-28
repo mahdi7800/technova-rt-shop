@@ -1,0 +1,1 @@
+<div class="page-content">    <div class="container">        <div class="heading heading-flex">            <div class="heading-left">                <h3 class="title"><?php echo get_the_title() ?></h3>                <!-- End .title -->            </div><!-- End .heading-left -->        </div><!-- End .heading -->        <p><?php the_Content(); ?></p>    </div></div>
